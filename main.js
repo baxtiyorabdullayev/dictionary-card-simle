@@ -20,7 +20,7 @@ inputTranslate.placeholder = "Translate...";
 let add = document.createElement("input");
 add.classList.add("input-add");
 add.type = "submit";
-add.value = "Add";
+add.value = "Add dictionary";
 
 form.appendChild(inputDictionary);
 form.appendChild(inputTranslate);
